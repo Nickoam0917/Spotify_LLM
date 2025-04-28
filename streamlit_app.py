@@ -1,6 +1,6 @@
 import streamlit as st
 import random
-import whisper  # Importando a biblioteca Whisper
+import whisper 
 
 # Configurações da página
 st.set_page_config(page_title="Spotify.ia", page_icon="🎵", layout="centered")
